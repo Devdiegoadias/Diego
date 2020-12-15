@@ -4,4 +4,4 @@
 
 🚀 Study on Digital Transformation, its strategies, digital culture and mainly how to leverage DT using Microsoft technologies!
 
-► MSc,MBA, OKRCP®, SCT™, SAMC™, SPOC™, SMC™, CSM®, PMP®, MCT®, MCSA®, MCTS®, ITIL®, ITSM®
+► MSc ,MBA, OKRCP®, SCT™, SAMC™, SPOC™, SMC™, CSM®, PMP®, MCT®, MCSA®, MCTS®, ITIL®, ITSM®
